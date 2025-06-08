@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with ?   	ebiten-game	[no test files]
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Go workspace file
+go.work
